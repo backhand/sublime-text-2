@@ -1,0 +1,16 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Flatland/Flatland.tmTheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Nodejs"
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Flatland.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"wide_caret": true
+}
