@@ -1,0 +1,7 @@
+[
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+  { "keys": ["super+plus"], "command": "copy" },
+  { "keys": ["super+minus"], "command": "copy" },
+  { "keys": ["super+equals"], "command": "copy" }
+]
