@@ -2,6 +2,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Flatland/Flatland.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		".git",
@@ -34,11 +35,13 @@
 		"CVS",
 		".sass-cache"
 	],
+	"font_face": "Menlo",
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Nodejs"
+		"Nodejs",
+		"Vintage"
 	],
 	"show_full_path": true,
 	"tab_size": 2,

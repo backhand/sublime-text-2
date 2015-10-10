@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 /*jslint node:true, multistr: true */
-"use strict";
+'use strict';
 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

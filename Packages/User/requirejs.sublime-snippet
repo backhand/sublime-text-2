@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-var ${1:pkg} = require('${1:pkg}');
+var ${1:${TM_SELECTED_TEXT}} = require('${1:${TM_SELECTED_TEXT}}');
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <!-- <tabTrigger>hello</tabTrigger> -->
